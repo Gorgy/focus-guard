@@ -1,11 +1,13 @@
 # Local Codex instructions and planning documents
 /AGENTS.md
 /docs/
+/.agents/
 
 # Python bytecode and caches
 __pycache__/
 *.py[cod]
 *$py.class
+*.pyc
 
 # Virtual environments
 .venv/
